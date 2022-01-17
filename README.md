@@ -1,7 +1,7 @@
 ### Olá!👋
 
 
--🌱 Estudo Python and Java
+-🌱 Pythonlover
 
 
 
